@@ -1,0 +1,14 @@
+argcomplete
+pywavelets
+sounddevice
+soundfile
+matplotlib
+scipy
+spectrum
+numpy
+psutil
+opencv-python
+pygame
+pygame_widgets
+setuptools
+PyQt5
